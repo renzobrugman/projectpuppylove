@@ -1,0 +1,123 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+    text-emphasis: none;    
+}
+    #div1 {
+    width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: 36%;
+    margin-top: 1px;
+    float:left; 
+    margin-bottom: 5px; 
+    
+    }
+    #div2 {
+    width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 1px;
+    float:left; 
+    margin-bottom: 5px; 
+     
+    
+    }
+    #div3 {
+    width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: 36%;
+    margin-top: 1px;
+    float:left; 
+    margin-bottom: 5px; 
+         
+ } 
+    #div4 {
+    width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 1px;
+    float:left; 
+    margin-bottom: 5px;
+    
+    }
+    #div5 {
+    width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: 36%;
+    margin-top: 1px;
+    float:left; 
+    margin-bottom: 5px; 
+   
+    }
+    #div6 {
+    width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 1px;
+    float:left; 
+    margin-bottom: 5px;
+     
+    }
+    #div7 {
+    width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: 36%;
+    margin-top: 1px;
+    float:left; 
+    margin-bottom: 5px; 
+    }
+    #div8 
+    {width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 1px;
+    float:left; 
+    margin-bottom: 5px; 
+   
+}
+    #div9 {
+    width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: 36%;
+    margin-top: 1px;
+    float:left; 
+    background-color:tomato;
+    
+    margin-bottom: 5px; 
+    }
+    #div10 {
+    width: 400px;      
+    height: 400px;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 1px;
+    float:left; 
+    margin-bottom: 5px; 
+    background-color: yellow;
+   
+}
+    #footer{
+        border-style: dashed;
+        border-color:white;
+        border: 1px;
+        background-color: ;
+}
